@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Mon Oct 21 17:30:39 2024
+[*]
+[dumpfile] "/home/ip/Desktop/PACKUP/vunit/FIFO_AXIS_v2/vunit_out/test_output/lib.tb_axis_loop.test_260bb5c8c675e898eca5dc9024a4420ede12c0bc/ghdl/wave.ghw"
+[dumpfile_mtime] "Mon Oct 21 12:38:10 2024"
+[dumpfile_size] 574006
+[savefile] "/home/ip/Desktop/PACKUP/vunit/FIFO_AXIS_v2/vunit_out/test_output/lib.tb_axis_loop.test_260bb5c8c675e898eca5dc9024a4420ede12c0bc/ghdl/fifo_axis_v2.gtkw"
+[timestart] 3126800000
+[size] 1850 1016
+[pos] -1 -1
+*-27.000000 3397900000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb_axis_loop.
+[treeopen] top.tb_axis_loop.uut_vc.
+[treeopen] top.tb_axis_loop.uut_vc.uut.
+[treeopen] top.tb_axis_loop.uut_vc.uut.fifo_inst.
+[treeopen] top.tb_axis_loop.uut_vc.uut.fifo_inst.fifo_logic_inst.
+[sst_width] 333
+[signals_width] 225
+[sst_expanded] 1
+[sst_vpaned_height] 289
+@28
+top.tb_axis_loop.uut_vc.uut.aclk
+top.tb_axis_loop.uut_vc.uut.aresetn
+top.tb_axis_loop.uut_vc.uut.m_axis_tready
+top.tb_axis_loop.uut_vc.uut.m_axis_tvalid
+@24
+#{top.tb_axis_loop.uut_vc.uut.m_axis_tdata[31:0]} top.tb_axis_loop.uut_vc.uut.m_axis_tdata[31] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[30] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[29] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[28] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[27] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[26] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[25] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[24] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[23] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[22] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[21] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[20] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[19] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[18] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[17] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[16] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[15] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[14] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[13] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[12] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[11] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[10] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[9] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[8] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[7] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[6] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[5] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[4] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[3] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[2] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[1] top.tb_axis_loop.uut_vc.uut.m_axis_tdata[0]
+@420
+top.tb_axis_loop.uut_vc.uut.axi4s_st
+@200
+-
+@28
+top.tb_axis_loop.uut_vc.uut.fifo_rd_en
+top.tb_axis_loop.uut_vc.uut.fifo_rd_valid
+top.tb_axis_loop.uut_vc.uut.fifo_empty
+top.tb_axis_loop.uut_vc.uut.fifo_ae
+top.tb_axis_loop.uut_vc.uut.fifo_full
+top.tb_axis_loop.uut_vc.uut.fifo_af
+@24
+#{top.tb_axis_loop.uut_vc.uut.fifo_inst.fifo_logic_inst.r_fifo_count_curr[2:0]} top.tb_axis_loop.uut_vc.uut.fifo_inst.fifo_logic_inst.r_fifo_count_curr[2] top.tb_axis_loop.uut_vc.uut.fifo_inst.fifo_logic_inst.r_fifo_count_curr[1] top.tb_axis_loop.uut_vc.uut.fifo_inst.fifo_logic_inst.r_fifo_count_curr[0]
+@28
+top.tb_axis_loop.uut_vc.uut.rd_flag
+top.tb_axis_loop.uut_vc.uut.m_tvalid_temp
+[pattern_trace] 1
+[pattern_trace] 0
