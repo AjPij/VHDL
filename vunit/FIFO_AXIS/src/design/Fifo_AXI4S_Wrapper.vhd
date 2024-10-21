@@ -91,7 +91,7 @@ architecture Behavioral of Fifo_AXI4S_Wrapper is
 	signal buff_out_data				: std_logic_vector(TDATA_WIDTH + TDATA_WIDTH/8 downto 0);
 
 	signal m_tvalid_temp				: std_logic := '0';
---	signal fr_flag						: std_logic;
+
 	
 	signal ae_lat						: std_logic; -- copy of FIFO_AE 1 clock cycle late
 	signal rd_v_lat						: std_logic; -- copy of FIFO_RD_VALID  1 clock cycle late
