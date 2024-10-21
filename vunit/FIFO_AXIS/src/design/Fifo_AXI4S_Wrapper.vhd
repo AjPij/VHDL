@@ -86,11 +86,6 @@ architecture Behavioral of Fifo_AXI4S_Wrapper is
     
     signal FIFO_WR_EN               : std_logic;        
     signal FIFO_RD_EN               : std_logic := '0';
-
-	--constant FIFO_D_WIDTH : natural := TDATA_WIDTH; -- bus width for FIFO_WR_DATA and FIFO_RD_DATA in [bits]                
-  	--constant FIFO_DEPTH   : natural := BUFF_DEPTH;  -- depth of fifo
-	--constant FIFO_AE      : natural := MEM_RD_LAT;  -- how many words are left in fifo before empty flag is asserted
-	--constant FIFO_AF      : natural := MEM_WR_LAT;  -- how many words can be written to fifo before full flag is asserted
 	
 	signal buff_in_data					: std_logic_vector(TDATA_WIDTH + TDATA_WIDTH/8 downto 0);
 	signal buff_out_data				: std_logic_vector(TDATA_WIDTH + TDATA_WIDTH/8 downto 0);
